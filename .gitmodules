@@ -1,0 +1,27 @@
+[submodule ".github"]
+	path = .github
+	url = https://github.com/nodeboot-projects/.github.git
+[submodule ".vscode"]
+	path = .vscode
+	url = https://github.com/nodeboot-projects/.vscode.git
+[submodule "nodeboot-cli"]
+	path = nodeboot-cli
+	url = https://github.com/nodeboot-projects/nodeboot-cli.git
+[submodule "nodeboot-assets"]
+	path = nodeboot-assets
+	url = https://github.com/nodeboot-projects/nodeboot-assets.git
+[submodule "nodeboot-devkit"]
+	path = nodeboot-devkit
+	url = https://github.com/nodeboot-projects/nodeboot-devkit.git
+[submodule "nodeboot-eslint"]
+	path = nodeboot-eslint
+	url = https://github.com/nodeboot-projects/nodeboot-eslint.git
+[submodule "nodeboot-framework"]
+	path = nodeboot-framework
+	url = https://github.com/nodeboot-projects/nodeboot-framework.git
+[submodule "nodeboot-vscode"]
+	path = nodeboot-vscode
+	url = https://github.com/nodeboot-projects/nodeboot-vscode.git
+[submodule "nodeboot-website"]
+	path = nodeboot-website
+	url = https://github.com/nodeboot-projects/nodeboot-website.git
