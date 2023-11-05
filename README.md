@@ -1,8 +1,9 @@
 <h1 align="center">
-  nodeboot
+  Nodeboot
 </h1>
 
 <p align="center">
+  ![Node.js Logo](./nodeboot-assets/nodejs.svg)
 </p>
 
 <p align="center">

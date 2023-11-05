@@ -4,12 +4,12 @@
 [submodule ".vscode"]
 	path = .vscode
 	url = https://github.com/nodeboot-projects/.vscode.git
-[submodule "nodeboot-cli"]
-	path = nodeboot-cli
-	url = https://github.com/nodeboot-projects/nodeboot-cli.git
 [submodule "nodeboot-assets"]
 	path = nodeboot-assets
 	url = https://github.com/nodeboot-projects/nodeboot-assets.git
+[submodule "nodeboot-cli"]
+	path = nodeboot-cli
+	url = https://github.com/nodeboot-projects/nodeboot-cli.git
 [submodule "nodeboot-devkit"]
 	path = nodeboot-devkit
 	url = https://github.com/nodeboot-projects/nodeboot-devkit.git
